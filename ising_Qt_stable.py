@@ -1,5 +1,5 @@
 __title__ = "ising model simulation"
-__author__ = "Sarvesh Thakur, MS16146"
+__author__ = "Sarvesh"
 
 import numpy as np
 import matplotlib.pyplot as plt
